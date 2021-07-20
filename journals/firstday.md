@@ -33,11 +33,39 @@ use the discussion tab in github, and make use of the issues tab to help with bu
 
 make the repository look professional, add labels to issues etc.
 
-### wiki tab in github can be used for noting things down aswell.
+#### wiki tab in github can be used for noting things down aswell.
 
-## server side needs to be completed by week 8.
-## front end needs to be done by week 12
+## Server side needs to be completed by week 8.
+## Front end needs to be done by week 12
 
 # BE MORE AGILE!!
+
+Make sure the nmit email is the primary email on the github classroom page.
+
+## WHAT IS NOTION
+
+Find all course info on notion
+
+## Lightning talks ?
+
+3-5 minutes talking about a technology, no presentation just a discussion about the tech.
+
+## Thunder Talk
+
+More personal learning, something youve been working on.
+talk through the technology
+include a demo
+10-15 min
+
+topics can be:
+1. JS
+2. Blockchain
+3. SQL/ Mongo
+4. Machine Learning
+5. Front-end libraries
+6. Python and or flask
+7. Data Visualisation d3
+
+
 
 
