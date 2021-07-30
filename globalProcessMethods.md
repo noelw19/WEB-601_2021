@@ -6,7 +6,7 @@
 | process.argv| is an Array, first element in the array is node, the second will be the JS filename, and the remaining elements will be additional CLI args|
 | process.env| is an object containing the user environment.|
 | process.platform | returns the current pltform the app is running one.g: darwin, linux etc.|
-| process.release | |
+| process.release | Returns an object containing metadata describing the current release of node, same as node --version except more detailed.|
 | process.versions | A compiled-in property that returns the node version|
 | process.stdin() | is a writable string to standard in|
 | process.stdout() | a writable stream to standard out|
